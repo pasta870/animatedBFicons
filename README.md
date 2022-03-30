@@ -2,7 +2,7 @@
 Do anything you want with it
 just credit
 
-'''lua
+```lua
 function onCreate()
 	if boyfriendName == 'bf' then
 		makeAnimatedLuaSprite('animatedBFicon', 'icons/icon_bf', getProperty('iconP1.x'), getProperty('iconP1.y'))
