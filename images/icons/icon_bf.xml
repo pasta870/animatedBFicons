@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:5fcb878211c7df7d3d0e845beb54bff2:0682773d32fb798a882568e4a3ac97a2:bfe04d2f1fbbdd1c4578ebb99711744e$ -->
+<TextureAtlas imagePath="icon_bf.png" width="150" height="150">
+    <SubTexture name="defeat0" x="0" y="0" width="150" height="150"/>
+	<SubTexture name="defeat1" x="150" y="0" width="150" height="150"/>
+	<SubTexture name="defeat2" x="0" y="150" width="150" height="150"/>
+	<SubTexture name="normal0000" x="150" y="150" width="150" height="150"/>
+	<SubTexture name="normal0001" x="300" y="0" width="150" height="150"/>
+	<SubTexture name="normal0002" x="300" y="150" width="150" height="150"/>
+	<SubTexture name="winning0" x="0" y="300" width="150" height="150"/>
+	<SubTexture name="winning1" x="150" y="300" width="150" height="150"/>
+	<SubTexture name="winning2" x="300" y="300" width="150" height="150"/>
+</TextureAtlas>
