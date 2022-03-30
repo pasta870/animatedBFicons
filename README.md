@@ -2,6 +2,9 @@
 Do anything you want with it
 just credit
 
+also i got it from 
+https://youtu.be/3sXiP_xxZLY
+
 ```lua
 function onCreate()
 	if boyfriendName == 'bf' then
